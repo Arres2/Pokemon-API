@@ -1,0 +1,16 @@
+.pagination {
+  display: flex;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  justify-content: space-evenly;
+}
+.pagination_button {
+  background-color: red;
+  border-radius: 30px;
+  height: 100px;
+  width: 100px;
+  font-size: large;
+}
+.pagination_button:hover {
+  transform: scale(110%);
+}
