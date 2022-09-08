@@ -3,6 +3,11 @@
 # Individual Project - Henry Pokemon
 
 <img height="150" src="./pokemon.png" />
+<img height="200" src="./Create.png" />
+<img height="200" src="./Cards.png" />
+<img height="200" src="./Detail.png" />
+<img height="200" src="./Loading.png" />
+
 
 ## Objetivos del Proyecto
 
